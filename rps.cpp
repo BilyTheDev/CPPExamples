@@ -2,7 +2,7 @@
 This code is written by Bily ( Bily#6405 on Discord ) and can be redistributed.
 This is a Rock Paper Scissors game, with only one round, and has an option to restart if the player wants to play again. If there are any errors in this code, feel free to DM me
 As simple as this code can be, it was created to help complete beginners in C++ who want to know what the language looks like. I really hope you guys find it useful.
-This is the first time I've ever written open source code, and I want to wrtie more to help the big community of programmers out there!
+This is the first time I've ever written open source code, and I want to wrtie more to help the big community of beginner programmers out there!
 */ 
 
 #include <iostream>
