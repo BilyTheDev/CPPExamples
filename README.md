@@ -1,2 +1,2 @@
 # CPPExamples
-Some C++ Code examples for folks who are new to C++
+Some C++ Code examples for people who want to know what C++ looks like
