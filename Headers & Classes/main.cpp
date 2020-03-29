@@ -1,6 +1,6 @@
 /*
 This code is written by Bily ( Bily#6405 on Discord ) and can be redistributed.
-This is an example on headers, classes and functions that return values.
+This is an example on headers, classes and functions that return values. If there are any errors feel free to DM me!
 As simple as this code can be, it was created to help complete beginners in C++ who want to know what the language looks like. I really hope you guys find it useful.
 This is the 2nd time I've written open source code and hopefully I'll write more!
 */
