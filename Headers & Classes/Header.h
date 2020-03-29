@@ -1,3 +1,5 @@
+/* Header file for main.cpp in the same folder as this */
+
 #include <iostream>
 
 using namespace std;
