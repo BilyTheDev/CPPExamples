@@ -1,4 +1,4 @@
-/* Header file for HeadersAndClasses.cpp */
+/* Header file for headersAndClasses.cpp */
 #include <iostream>
 
 using namespace std;
